@@ -7,4 +7,4 @@ services:
     volumes:
     - ./app:/var/www/html
     ports:
-    - 81:80
+    - 82:80
